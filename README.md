@@ -1,5 +1,5 @@
 # Challenge01_AccessibilitySEO
-Challenge01_AccessibilitySEO
+Challenge to refactor a "existing" webpage to make it more accessibility friendly and improve SEO.
 
 ## The Task
 ---
